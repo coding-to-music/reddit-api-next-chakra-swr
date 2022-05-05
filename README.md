@@ -1,3 +1,36 @@
+# reddit-api-next-chakra-swr
+
+# 🚀 Javascript full-stack 🚀
+
+https://github.com/coding-to-music/reddit-api-next-chakra-swr
+
+https://reddit-api-next-chakra-swr.vercel.app
+
+by Robert Soriano https://github.com/wobsoriano
+
+https://onlysetups.vercel.app
+
+https://github.com/wobsoriano/onlysetups
+
+## Environment Values
+
+```java
+none
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/reddit-api-next-chakra-swr.git
+git push -u origin main
+
+```
+
 <h1 align="center">
   OnlySetups
 </h1>

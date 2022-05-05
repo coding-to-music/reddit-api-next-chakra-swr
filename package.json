@@ -1,7 +1,14 @@
 {
-  "name": "onlysetups",
+  "name": "reddit-api-next-chakra-swr",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "14.x"
+  },
+  "cacheDirectories": [
+    "node_modules",
+    ".next/cache"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
